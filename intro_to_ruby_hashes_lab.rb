@@ -16,9 +16,6 @@ def monopoly
   monopoly
 end
 
-monopoly
-
-
 
 ikea = {:chair => 25, :table => 85, :mattress => 450}
 
