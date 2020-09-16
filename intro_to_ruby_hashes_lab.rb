@@ -68,12 +68,6 @@ epic_tragedy[:montague][:hero][:status] = "dead"
 epic_tragedy
 
 
-def monopoly
-  monopoly = {}
-  monopoly[:railroads] = {}
-end
-
-monopoly
 
 
 # The following method won't work... the correct way is below:
